@@ -634,8 +634,8 @@
           },
           "_anchor": "msg-box1-54",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
